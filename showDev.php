@@ -117,7 +117,6 @@ include "connect.php";
         background: #4facfe;
         color: white;
         font-weight: 700;
-        border-radius: 15px;
         user-select: none;
         box-shadow: 0 4px 12px rgb(79 172 254 / 0.6);
     }
@@ -139,7 +138,6 @@ include "connect.php";
         color: #0077cc;
     }
 
-    /* Link button inside table */
     table td a.btn {
         padding: 6px 12px;
         font-size: 14px;
